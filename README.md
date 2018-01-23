@@ -5,8 +5,9 @@
 
 # Some Python Programs:
 ```
-1.maxuid 
-2.fileCheck
-3.Checking a file implementation in shell 
-
+1.maxuid.py 
+2.largestUID.sh  -- Shell script
+3.fileCheck.py
+4.Checking a file implementation in shell 
+5.More Pythonic way of checking file    
 ``` 
