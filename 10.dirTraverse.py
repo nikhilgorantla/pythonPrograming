@@ -13,4 +13,4 @@ for dirpath, dirnames, filenames in os.walk(dirName):
 
     print("Directories in %s are: " %dirpath)
     for dir in dirnames:
-        print("\t" + dir)        
+        print("\t" + dir)     
