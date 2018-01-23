@@ -16,7 +16,7 @@ def getprocessuid(procdir):
             return uid
 
 # Will take this from command line eventually
-username = 'albus'
+username = input("Enter the Username: ")
 
 try:
     pwdentry = pwd.getpwnam(username)
