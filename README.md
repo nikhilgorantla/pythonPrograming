@@ -28,5 +28,7 @@
 21.subprocess.py
 22.optparse.py
 23.checkingpartions.py
+24.simpleMail.py
+
 
 ``` 
