@@ -3,8 +3,7 @@
 # Data:         14/Jan/2018
 # Description:  Fun little program to show the file descriptors and how they work
 
-#!/usr/bin/python3
-
+#!/usr/bin/python
 
 import sys
 
