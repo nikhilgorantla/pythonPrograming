@@ -2,7 +2,7 @@
 # Author:       Nikhil Gorantla
 # Data:         14/Jan/2018
 # Description:  This python program shows the practical use of optparse. 
-#               Here we are checking the partions in the linux with help of a threshold so we can monitor contnuesly 
+#               Here we are checking the partions in the linux with help of a threshold so we can monitor continuously 
 
 
 #!/usr/bin/python3
