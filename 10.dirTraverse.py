@@ -14,3 +14,9 @@ for dirpath, dirnames, filenames in os.walk(dirName):
     print("Directories in %s are: " %dirpath)
     for dir in dirnames:
         print("\t" + dir)     
+
+# file:         largestUID.sh
+# Author:       Nikhil Gorantla
+# Data:         1/Jan/2018
+# Description:  This is showcasing the diffrence between python and bash to largest UID
+# Reference:    Check 1.maxuid.py for reference

@@ -1,6 +1,9 @@
-#!/usr/bin/python3
+# file:         killinguserprocess.py
+# Author:       Nikhil Gorantla
+# Data:         1/Jan/2018
+# Description:  Python program to kill all the processes owned by a specified user.
 
-# Python program to kill all the processes owned by a specified user.
+#!/usr/bin/python3
 
 import pwd
 import glob
