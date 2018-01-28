@@ -9,4 +9,4 @@ for line in open("/etc/passwd"):
     uidset.add(int(split[2]))
 
 print (uidset)
-#print(*uidset,sep='\n')
+# print(*uidset,sep='\n')
