@@ -1,4 +1,4 @@
-# file:         BrokenSymlinks.py
+# file:         ownerless.py
 # Author:       Nikhil Gorantla
 # Data:         14/Jan/2018
 # Description:  This program displays  the broken symbolic links and ownerless files.
