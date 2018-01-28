@@ -10,7 +10,7 @@ import glob
 import os
 import signal
 
-def getprocessuid(procdir):
+def getprocessuid(procdir):dirlist
     statusfile = open(procdir + "/status")
     for line in statusfile:
         if line.startswith("Uid:"):

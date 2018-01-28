@@ -1,5 +1,10 @@
-#This is implementation of directory traverse and get what the contents inside the directories 
-# From os module we are using os.walk in order to traverse thought the file system and get the data we need
+# file:         dirTraverse.py
+# Author:       Nikhil Gorantla
+# Data:         1/Jan/2018
+# Description:  This is implementation of directory traverse and get what the contents inside the directories 
+#               From os module we are using os.walk in order to traverse thought the file system and get the data we need
+
+
 #!/usr/bin/python3
 
 import os
@@ -13,10 +18,4 @@ for dirpath, dirnames, filenames in os.walk(dirName):
 
     print("Directories in %s are: " %dirpath)
     for dir in dirnames:
-        print("\t" + dir)     
-
-# file:         largestUID.sh
-# Author:       Nikhil Gorantla
-# Data:         1/Jan/2018
-# Description:  This is showcasing the diffrence between python and bash to largest UID
-# Reference:    Check 1.maxuid.py for reference
+        print("\t" + dir)    
