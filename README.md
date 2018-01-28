@@ -1,4 +1,4 @@
-# Python programs are Derived from my real time Experience's
+# All programs are from my real time Experience's
 ## *Python programs were developed as need is necessity of invention.* 
 
 =================================================================================

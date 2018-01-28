@@ -1,4 +1,8 @@
-#This is 2nd version of implementation of tar archive 
+# file:         tarFile.py
+# Author:       Nikhil Gorantla
+# Data:         1/Jan/2018
+# Description:  This program will tar the file's in the given directory
+#               Improvised version of implementation of tar archive 
 
 import tarfile
 import glob
