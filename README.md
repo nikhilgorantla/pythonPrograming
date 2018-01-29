@@ -37,5 +37,6 @@
 30.fstab.py
 31.fstab.in
 32.fstab.out
+33.histogram.py
 
 ```

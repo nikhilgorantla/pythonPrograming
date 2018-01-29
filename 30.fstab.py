@@ -1,7 +1,7 @@
 # file:         fstab.py
 # Author:       Nikhil Gorantla
 # Data:         14/Jan/2018
-# Description:  This python program will replace all the ddevice names with UID's in the fstab file .
+# Description:  This python program will replace all the device names with UID's in the fstab file .
 #               Here we are using the copy of fstab file as input 
 
 
