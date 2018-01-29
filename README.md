@@ -30,4 +30,6 @@
 23.checkingpartions.py
 24.simpleMail.py
 25.archiving.py
+26.CheckingTararchive.py
+
 ```
