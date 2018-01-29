@@ -31,5 +31,5 @@
 24.simpleMail.py
 25.archiving.py
 26.CheckingTararchive.py
-
+27.stringFormatting.py
 ```
