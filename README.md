@@ -34,5 +34,8 @@
 27.stringFormatting.py
 28.grepV2.py
 29.urlrewrite.py
+30.fstab.py
+31.fstab.in
+32.fstab.out
 
 ```
